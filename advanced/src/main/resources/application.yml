@@ -1,11 +1,8 @@
 ifood:
   open-weather:
-    app-id: 4781b7dfb5e353f2618dd789297d8363
     base-url: https://api.openweathermap.org/data/2.5/weather?appid={appid}&units={units}&q={q}&lat={lat}&lon={lon}
     units: metric
   spotify:
-    client-id: 366aebadedcb46ec8ac8a4c1e7a9ad31
-    client-secret: eb4bdf6bc95440f9b6c604e9bd3ec5a6
     base-url: https://api.spotify.com
     access-token-url: https://accounts.spotify.com/api/token
 
